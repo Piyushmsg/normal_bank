@@ -1,0 +1,543 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Sun Jun 19 23:22:22 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+VENDORED_BUILD = windows.1
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+CMDER_INIT_START = 18:21:35.47
+# environment
+CONEMUANSILOG = 
+# environment
+USER_MAJOR = 2
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# envir 
+onment
+LIB_PROFILE = call "C:\cmd\vendor\lib\lib_profile.cmd"
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := c:/work_space/simple_bank
+# default
+SHELL := C:/Program Files/Git/usr/bin/sh.exe
+# environment
+LIB_CONSOLE = call "C:\cmd\vendor\lib\lib_console.cmd"
+# environment
+WINDIR = C:\Windows
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+NVM_HOME = C:\Users\Dell\AppData\Roaming\nvm
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from `makefile', line 1)
+MAKEFILE_LIST :=  makefile
+# environment
+CONEMUPID = 11860
+# environment
+CONEMUARGS = /Icon "C:\cmd\icons\cmder.ico" /Title Cmder
+# environment
+TMP = C:\Users\Dell\AppData\Local\Temp
+# environment
+GYP_MSVS_VERSION = 2015
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+PATH_POSITION = append
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# env 
+ironment
+CONEMUANSI = ON
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-8e000afe-398c-4b4c-8e19-a6e5f915b9cc-sock
+# environment
+VSCODE_CWD = c:\work_space\simple_bank
+# environment
+GOPROXY = https://proxy.golang.org,direct
+# environment
+ESET_OPTIONS = $(subst ,,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               )
+# environment
+USERDOMAIN = DESKTOP-QHI454C
+# environment
+PATH = C:\cmd\vendor\bin;C:\cmd\vendor\conemu-maximus5\ConEmu\Scripts;C:\cmd\vendor\conemu-maximus5;C:\cmd\vendor\conemu-maximus5\ConEmu;C:\Program Files\Java\jdk1.8.0_25\bin;C:\grails\grails-2.4.4\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Dell\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin\;C:\Go\bin;C:\Program Files\Git\cmd;C:\Gradle\gradle-7.1\bin;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Dell\scoop\shims;C:\Users\Dell\AppData\Local\Microsoft\WindowsApps;C:\Users\Dell\AppData\Local\Yarn\bin;C:\Users\Dell\go\bin;C:\sdk\flutter\bin;C:\Program Files\heroku\bin;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\cmd
+# environment
+GIT_VERSION_USER = 2.30.0.windows.2
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+USER_PATCH = 0
+# automatic
++F = $(notdir $+)
+# environment
+VERBOSE_OUTPUT = 0
+# environment
+CMDER_ROOT = C:\cmd
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+ONEDRIVE = C:\Users\Dell\OneDrive
+# environment
+USERPROFILE = C:\Users\Dell
+# environment
+CONEMUWORKDIR = C:\cmd
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+GOPATH = C:\Users\Dell\go
+# environment
+PLINK_PROTOCOL = ssh
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# makefile (from `makefile', line 16)
+makeFileDir := c:/work_space/simple_bank/
+# environment
+ANDROID_HOME = C:\Users\Dell\AppData\Local\Android\Sdk
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# environment
+CONEMUHWND = 0x00050436
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11852_ZKUOCFTIIOLZMPHD
+# environment
+VENDORED_MAJOR = 2
+# environment
+OS = Windows_NT
+# environment
+MAX_DEPTH = 1
+# environment
+SVN_SSH = C:\\Program Files\\Git\\bin\\ssh.exe
+# environment
+FEFLAGNAME = $(subst ,, )
+# environment
+NIX_TOOLS = 1
+# environment
+ADD_PATH = C:\cmd
+# environment
+CMDER_SHELL = cmd
+# environment
+USER_MINOR = 30
+# environment
+COMPUTERNAME = DESKTOP-QHI454C
+# environment
+GIT_EXECUTABLE = C:\Program Files\Git\cmd\git.exe
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+CONEMUARGS2 = 
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Dell
+# environment
+GRAILS_HOME = C:\grails\grai 
+ls-2.4.4
+# environment
+PUBLIC = C:\Users\Public
+# environment
+GOMODCACHE = C:\Users\Dell\go\pkg\mod
+# environment
+HOME = C:\Users\Dell
+# environment
+CMDER_INIT_END = 18:21:40.77
+# environment
+VSCODE_CLI = 1
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Dell\AppData\Roaming\Code\CachedData\30d9c6cd9483b2cc586687151bcbcd635f373630
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\DESKTOP-QHI454C
+# environment
+DEPTH = 1
+# environment
+OLD_PATH = C:\cmd\vendor\bin;C:\cmd\vendor\conemu-maximus5\ConEmu\Scripts;C:\cmd\vendor\conemu-maximus5;C:\cmd\vendor\conemu-maximus5\ConEmu;C:\Program Files\Java\jdk1.8.0_25\bin;C:\grails\grails-2.4.4\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Dell\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin\;C:\Go\bin;C:\Program Files\Git\cmd;C:\Gradle\gradle-7.1\bin;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Dell\scoop\shims;C:\Users\Dell\AppData\Local\Microsoft\WindowsApps;C:\Users\Dell\AppData\Local\Yarn\bin;C:\Users\Dell\go\bin;C:\sdk\flutter\bin;C:\Program Files\heroku\bin;C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin
+# environment
+ONEDRIVECONSUMER = C:\Users\Dell\OneDrive
+# environment
+CONEMUWORKDRIVE = C:
+# environment
+GIT_VERSION_VENDORED = 2.26.2.windows.1
+# environment
+CMDER_CLINK = 1
+# environment
+CONEMUPALETTE = Monokai
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+USER_ALIASES = C:\cmd\config\user_aliases.cmd
+# environment
+CONEMUCONFIG = 
+# environment
+VENDORED_PATCH = 2
+# environment
+CMDER_CONFIGURED = 1
+# environment
+JAVA_HOME = C:\Program Files\Java\jdk1.8.0_25
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := postgres
+# environment
+LIB_PATH = call "C:\cmd\vendor\lib\lib_path.cmd"
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+CMDER_ALIASES = 1
+# environment
+NVM_SYMLINK = C:\Program Files\nodejs
+# environment
+FAST_INIT = 0
+# environment
+CONEMUISADMIN = ADMIN
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# environment
+ANSICON_DEF = 7
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# environment
+CONEMUDIR = C:\cmd\vendor\conemu-maximus5
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+# environment
+CEXEC = ^"C:\cmd\vendor\bin\cexec.cmd"
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\47ce9abef4d1fbad6615f4d064b95a8a-1.68.1-main-sock
+# environment
+USER_BUILD = windows.2
+# environment
+HOMEPATH = \Users\Dell
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = CLINK $P$G
+# environment
+MFL 
+AGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+CCALL = call ^"C:\cmd\vendor\bin\cexec.cmd"
+# environment
+TIME_INIT = 0
+# environment
+SYSTEMROOT = C:\Windows
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+CONEMUSERVERPID = 10908
+# environment
+VENDORED_MINOR = 26
+# environment
+FOUND = 1
+# environment
+CONEMUDRIVE = C:
+# environment
+ANSICON = 74x1000 (74x29)
+# environment
+CONEMUDRAWHWND = 0x000403AC
+# environment
+CONEMUHOOKS = Enabled
+# environment
+ARCHITECTURE_BITS = 64
+# environment
+APPDATA = C:\Users\Dell\AppData\Roaming
+# environment
+CLINK_ARCHITECTURE = x64
+# environment
+TEMP = C:\Users\Dell\AppData\Local\Temp
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+VSCODE_PIPE_LOGGING = true
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+GIT_LOCALE = "C:\Program Files\Git\usr\bin\locale.exe"
+# environment
+CONEMUBASEDIRSHORT = C:\cmd\vendor\conemu-maximus5\ConEmu
+# environment
+LOCALAPPDATA = C:\Users\Dell\AppData\Local
+# environment
+CONEMUBACKHWND = 0x000F03C6
+# environment
+CONEMUBASEDIR = C:\cmd\vendor\conemu-maximus5\ConEmu
+# environment
+LC_ALL = C
+# environment
+ALIASES = C:\cmd\config\user_aliases.cmd
+# environment
+__COMPAT_LAYER = Installer
+# environment
+DEBUG_OUTPUT = 0
+# environment
+LIB_GIT = call "C:\cmd\vendor\lib\lib_git.cmd"
+# automatic
+^F = $(notdir $^)
+# environment
+ADD_TO_PATH = C:\cmd
+# environment
+GIT_INSTALL_ROOT = C:\Program Files\Git
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+PROCESSOR_REVISION = 3a09
+# environment
+CONEMUTASK = {cmd::Cmder}
+# environment
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+# environment
+CONEMUCFGDIR = C:\cmd\vendor\conemu-maximus5
+# environment
+CMDER_USER_FLAGS = $(subst ,, )
+# environment
+MAKELEVEL := 0
+# environment
+FIND_QUERY = C:\\cmd
+# environment
+LIB_BASE = call "C:\cmd\vendor\lib\lib_base.cmd"
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+TERM = cygwin
+# environment
+VSCODE_PID = 11852
+# environment
+CONEMUBUILD = 191012
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-QHI454C
+# variable set hash-table stats:
+# Load=175/1024=17%, Rehash=0, Collisions=28/195=14%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# C:\cmd\vendor\conemu-maximus5 (key C:/cmd/vendor/conemu-maximus5, mtime 1595137436): 10 files, no impossibilities.
+# C:\Program Files\heroku\bin (key C:/Program Files/heroku/bin, mtime 1609210367): 4 files, no impossibilities.
+# C:\Program Files\Intel\iCLS Client\ ( 
+key C:/Program Files/Intel/iCLS Client/, mtime 1592866789): 22 files, no impossibilities.
+# C:\Program Files\Docker\Docker\resources\bin (key C:/Program Files/Docker/Docker/resources/bin, mtime 1653916081): 13 files, no impossibilities.
+# C:\grails\grails-2.4.4\bin (key C:/grails/grails-2.4.4/bin, mtime 1414487150): 6 files, no impossibilities.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1602786769): 30 files, no impossibilities.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1655295456): 170 files, no impossibilities.
+# . (key c:/work_space/simple_bank, mtime 1654882812): 9 files, no impossibilities.
+# C:\Program Files\Git\mingw64\bin (key C:/Program Files/Git/mingw64/bin, mtime 1610969205): 107 files, no impossibilities.
+# C:\Users\Dell\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Dell/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1655383042): 4 files, no impossibilities.
+# C:\Program Files\dotnet\ (key C:/Program Files/dotnet/, mtime 1653369370): 8 files, no impossibilities.
+# C:\Program Files\nodejs (key C:/Program Files/nodejs, mtime 1651751055): 8 files, no impossibilities.
+# C:\Program Files\Java\jdk1.8.0_25\bin (key C:/Program Files/Java/jdk1.8.0_25/bin, mtime 1631097884): 57 files, no impossibilities.
+# C:\Users\Dell\AppData\Roaming\nvm (key C:/Users/Dell/AppData/Roaming/nvm, mtime 1651751028): 18 files, no impossibilities.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\IPT (key C:/Program Files/Intel/Intel(R) Management Engine Components/IPT, mtime 1592866780): 5 files, no impossibilities.
+# C:\Program Files (x86)\Yarn\bin\ (key C:/Program Files (x86)/Yarn/bin/, mtime 1595070706): 7 files, no impossibilities.
+# C:\Windows\System32\OpenSSH\: could not be stat'd.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1617870575): 5 files, no impossibilities.
+# C:\cmd\vendor\conemu-maximus5\ConEmu (key C:/cmd/vendor/conemu-maximus5/ConEmu, mtime 1595073930): 51 files, no impossibilities.
+# C:\Program Files\Intel\Intel(R) Management Engine Components\DAL (key C:/Program Files/Intel/Intel(R) Management Engine Components/DAL, mtime 1592866780): 4 files, no impossibilities.
+# C:\Windows (key C:/Windows, mtime 1655295412): 107 files, no impossibilities.
+# C:\ProgramData\Oracle\Java\javapath (key C:/ProgramData/Oracle/Java/javapath, mtime 1617869564): 5 files, no impossibilities.
+# C:\cmd\vendor\conemu-maximus5\ConEmu\Scripts (key C: 
+/cmd/vendor/conemu-maximus5/ConEmu/Scripts, mtime 1595073930): 4 files, no impossibilities.
+# C:\Program Files\Git\usr\bin (key C:/Program Files/Git/usr/bin, mtime 1610969198): 315 files, no impossibilities so far.
+# C:\Users\Dell\AppData\Local\Microsoft\WindowsApps (key C:/Users/Dell/AppData/Local/Microsoft/WindowsApps, mtime 1654277864): 17 files, no impossibilities.
+# C:\sdk\flutter\bin (key C:/sdk/flutter/bin, mtime 1602871680): 9 files, no impossibilities.
+# C:\Users\Dell\scoop\shims (key C:/Users/Dell/scoop/shims, mtime 1654278541): 7 files, no impossibilities.
+# C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
+# C:\Users\Dell\AppData\Local\Yarn\bin (key C:/Users/Dell/AppData/Local/Yarn/bin, mtime 1595071442): 2 files, no impossibilities.
+# C:\Users\Dell\go\bin (key C:/Users/Dell/go/bin, mtime 1652515097): 21 files, no impossibilities.
+# C:\Program Files (x86)\Intel\iCLS Client\ (key C:/Program Files (x86)/Intel/iCLS Client/, mtime 1592866789): 20 files, no impossibilities.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1610969205): 8 files, no impossibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1655296097): 2908 files, no impossibilities.
+# C:\Gradle\gradle-7.1\bin (key C:/Gradle/gradle-7.1/bin, mtime 318191400): 4 files, no impossibilities.
+# C:\Go\bin (key C:/Go/bin, mtime 1600573941): 4 files, no impossibilities.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT (key C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT, mtime 1592866780): 6 files, no impossibilities.
+# C:\cmd\vendor\bin (key C:/cmd/vendor/bin, mtime 1595073929): 9 files, no impossibilities.
+# C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL (key C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL, mtime 1592866780): 10 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1654348106): 5 files, no impossibilities.
+
+# 3999 files, no impossibilities in 39 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+postgres:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 2):
+	docker run --name postgres14 -e POSTGRES_USER=root -e POSTGRES_PASSWORD=password -p 5557:5432 -d postgres:14-alpine
+	
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not be 
+make.exe: *** No rule to make target `all'.  Stop.
+
+en updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+.PHONY: postgres createdb dropdb migrateup migratedown sqlc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+sqlc:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 19):
+	docker run --rm -v $(makeFileDir):/src -w /src kjconroy/sqlc generate
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+test:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 22):
+	go test -v -cover ./...
+	
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-10 23:33:16
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+createdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 5):
+	docker exec -it postgres14 createdb --username=root --owner=root simple_bank 
+	
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dropdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 8):
+	docker exec -it postgres14 dropdb simple_bank
+	
+
+migrateup:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 11):
+	migrate -path db/migration/ -database "postgresql://root:password@localhost:5557/simple_bank?sslmode=disable" -verbose up
+	
+
+migratedown:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 14):
+	migrate -path db/migration/ -database "postgresql://root:password@localhost:5557/simple_bank?sslmode=disable" -verbose down
+	
+
+# files hash-table stats:
+# Load=12/1024=1%, Rehash=0, Collisions=0/29=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Sun Jun 19 23:22:22 2022
+
+ 
